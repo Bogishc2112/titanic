@@ -10,7 +10,7 @@ Hyperparameter | Value
 Learning rate | *1e-2*
 Optimizer | *Adam, beta1=0.9, beta2=0.999, eps=1e-6*
 Number of epochs | *100*
-Batch | the whole training segment of dataset
+Batch | *the whole training segment of dataset*
 ## Todo:
 Current goal is to examine other possible algorithms that are applicable to a problem, evaluate them by their possible effectivness in terms of the challenge, and implement the one of them to improve acuracy.
 ## References:
